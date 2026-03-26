@@ -21,8 +21,16 @@ Proluag introduces a few custom types, which are used in Prolog, including:
 
 - Atoms
 - Functors
-  As well as uses types that are already implemented in Lua, ie:
+
+As well as uses types that are already implemented in Lua, ie:
+
 - Strings
 - Floats
 - Numbers
 - etc.
+
+## Creating predicates (single and multi-clause)
+
+## Creating rules and facts
+
+## Querying
