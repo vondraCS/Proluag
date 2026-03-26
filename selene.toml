@@ -1,0 +1,13 @@
+std = "roblox"
+
+[config]
+global_usage = "deny"
+if_same_then_else = "warn"
+ifs_same_cond = "warn"
+deprecated = "deny"
+unused_variables = "allow"
+undefined_variable = "deny"
+unscoped_variables = "warn"
+
+
+
